@@ -6,8 +6,8 @@ This repository provides a simple **hosts file blocklist** for disabling video a
 
 ### Purpose
 
-TVP VOD serves advertisements and often does not respect standard browser-based ad-blocking extensions.  
-This project provides a **system-level workaround** by blocking known ad and tracking servers via the `hosts` file.
+TVP VOD service does not respect standard browser-based ad-blocking extensions.  
+This project provides a **system-level workaround** by blocking known ad servers via the `hosts` file.
 
 ### How It Works
 
@@ -24,12 +24,12 @@ By redirecting ad-related domains to `0.0.0.0`, the operating system cannot esta
 
 ### Usage
 
-- (Optional) Disable browser-based ad blockers for testing.
+- Disable browser-based ad blockers for TVP VOD website.
 - Add the entries above to your system `hosts` file:
   - Linux / macOS: `/etc/hosts`
   - Windows: `C:\Windows\System32\drivers\etc\hosts`
 - Flush the DNS cache if required.
-- Restart your browser or streaming application.
+- Reload the TVP VOD page
 
 ### Disclaimer
 
@@ -45,7 +45,7 @@ To repozytorium zawiera prostą **listę blokującą dla pliku `hosts`**, umożl
 
 ### Cel
 
-TVP VOD wyświetla reklamy i często nie respektuje standardowych blokerów reklam działających w przeglądarce.
+TVP VOD wyświetla reklamy i nie respektuje standardowych blokerów reklam działających w przeglądarce.
 Projekt oferuje **rozwiązanie na poziomie systemu operacyjnego**, polegające na blokowaniu znanych serwerów reklamowych bezpośrednio w pliku `hosts`.
 
 ### Jak to działa
@@ -63,12 +63,12 @@ Przekierowanie domen powiązanych z reklamami na adres `0.0.0.0` uniemożliwia s
 
 ### Instrukcja użycia
 
-- (Opcjonalnie) Wyłącz blokery reklam w przeglądarce.
+- Wyłącz blokery reklam w przeglądarce dla strony tvp vod.
 - Dodaj powyższe wpisy do systemowego pliku `hosts`:
   - Linux / macOS: `/etc/hosts`
   - Windows: `C:\Windows\System32\drivers\etc\hosts`
 - Wyczyść pamięć podręczną DNS (jeśli wymagane).
-- Uruchom ponownie przeglądarkę lub aplikację streamingową.
+- Odswierz strone lub aplikację streamingową.
 
 ### Informacja
 
