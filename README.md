@@ -21,6 +21,7 @@ By redirecting ad-related domains to `0.0.0.0`, the operating system cannot esta
 0.0.0.0 r.tvp.pl
 0.0.0.0 r4---sn-f5f7lnly.c.2mdn.net
 0.0.0.0 gcdn.2mdn.net
+0.0.0.0 s1.adform.net
 ```
 
 ### Usage
@@ -61,6 +62,7 @@ Przekierowanie domen powiązanych z reklamami na adres `0.0.0.0` uniemożliwia s
 0.0.0.0 r.tvp.pl
 0.0.0.0 r4---sn-f5f7lnly.c.2mdn.net
 0.0.0.0 gcdn.2mdn.net
+0.0.0.0 s1.adform.net
 ```
 
 ### Instrukcja użycia
