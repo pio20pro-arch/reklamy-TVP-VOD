@@ -19,7 +19,8 @@ By redirecting ad-related domains to `0.0.0.0`, the operating system cannot esta
 # TVP VOD stream ads – add this to your hosts file
 0.0.0.0 ads.tvp.pl
 0.0.0.0 r.tvp.pl
-0.0.0.0 2mdn.net
+0.0.0.0 r4---sn-f5f7lnly.c.2mdn.net
+0.0.0.0 gcdn.2mdn.net
 ```
 
 ### Usage
@@ -58,7 +59,8 @@ Przekierowanie domen powiązanych z reklamami na adres `0.0.0.0` uniemożliwia s
 # TVP VOD stream ads – add this to your hosts file
 0.0.0.0 ads.tvp.pl
 0.0.0.0 r.tvp.pl
-0.0.0.0 2mdn.net
+0.0.0.0 r4---sn-f5f7lnly.c.2mdn.net
+0.0.0.0 gcdn.2mdn.net
 ```
 
 ### Instrukcja użycia
