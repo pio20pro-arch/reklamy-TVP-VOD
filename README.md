@@ -15,6 +15,7 @@ Hosts File Entries
 0.0.0.0 ads.tvp.pl
 0.0.0.0 r.tvp.pl
 0.0.0.0 2mdn.net
+
 Usage
 
 (Optional) Disable browser-based ad blockers for testing purposes.
